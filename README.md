@@ -19,7 +19,7 @@ com.github.bumptech.glide:glide:3.7.0
 以Moudle的方式添加[Rukey7/IjkPlayerView](https://github.com/Rukey7/IjkPlayerView)中的playerview文件夹<br>
 compile project(':playerview')
 ### 过滤设置
-设置要过滤扫描的文件夹的添加的界面用到了pagerslidingtabstrip实现tab的切换
+设置要过滤扫描的文件夹的添加的界面用到了pagerslidingtabstrip实现tab的切换<br>
 com.astuetz:pagerslidingtabstrip:1.0.1
 
 # LICENSE
