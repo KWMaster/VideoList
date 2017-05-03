@@ -117,7 +117,7 @@ public class MainActivity extends AppCompatActivity {
                     @Override
                     public void onClick(View v) {
 //                        filedirfragment.getIbtnRightMenu1().setOnClickListener(filedirfragment.getAddSharedPrefrenceInstance());
-                        if (edit.getVisibility()==View.VISIBLE){
+                        if (edit.getVisibility()==View.VISIBLE&&edit.getText().toString().equals("编辑")){
                             if (fileScanSetFragment==null){
                                 fileScanSetFragment=new FileScanSetFragment();
                                 mFragments.add(fileScanSetFragment);
