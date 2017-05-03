@@ -15,7 +15,7 @@ org.greenrobot:greendao:2.2.1<br>
 org.greenrobot:greendao-generator:2.2.0
 ### 播放器
 [Rukey7/IjkPlayerView](https://github.com/Rukey7/IjkPlayerView)集成的IJKPlayer播放器需要用到glide加载初始化播放器时的视频区域显示的图片<br>
-com.github.bumptech.glide:glide:3.7.0
+com.github.bumptech.glide:glide:3.7.0<br>
 以Moudle的方式添加[Rukey7/IjkPlayerView](https://github.com/Rukey7/IjkPlayerView)中的playerview文件夹<br>
 compile project(':playerview')
 ### 过滤设置
